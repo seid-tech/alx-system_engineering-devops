@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /etc/shd_config | grep -v "^[[:upper:]]"
